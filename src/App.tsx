@@ -9,7 +9,7 @@ import { Toaster } from "./components/ui/sonner";
 
 export default function App() {
   // Placeholder profile image - replace with your actual image
-  const profileImage = "src/img/wale.jpg.jpeg";
+  const profileImage = "/wale.jpg.jpeg";
 
   return (
     <div className="min-h-screen">

@@ -38,7 +38,7 @@ export function Header() {
           <div className="flex items-center gap-3">
             <div className="w-12 h-12 rounded-full overflow-hidden bg-gradient-to-br from-purple-600 to-pink-600 flex items-center justify-center">
               <img 
-                src="src/img/wale.jpg.jpeg" 
+                src="/wale.jpg.jpeg" 
                 alt="Israel Olasupo" 
                 className="w-full h-full object-cover"
               />
